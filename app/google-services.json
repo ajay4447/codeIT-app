@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "981452306235",
+    "firebase_url": "https://hackerrank-2.firebaseio.com",
+    "project_id": "hackerrank-2",
+    "storage_bucket": "hackerrank-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981452306235:android:889b662bf0ef49a0",
+        "android_client_info": {
+          "package_name": "com.example.premb.hackerrank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981452306235-f9vu7nn06r01lvsk5ie2jtf512aolcao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.premb.hackerrank",
+            "certificate_hash": "348aa2c97447eb8eb6d495929477e400d58447f8"
+          }
+        },
+        {
+          "client_id": "981452306235-d8ubb62jcb3ufc9d5fjoqon9u1g6ujo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHNNQ0UlH2_Vyc_LG9yjNLSuJd12WYZZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981452306235-d8ubb62jcb3ufc9d5fjoqon9u1g6ujo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
